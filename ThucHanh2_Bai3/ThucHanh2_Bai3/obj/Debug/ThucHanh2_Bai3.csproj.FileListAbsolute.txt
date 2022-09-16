@@ -1,0 +1,11 @@
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\bin\Debug\ThucHanh2_Bai3.exe.config
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\bin\Debug\ThucHanh2_Bai3.exe
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\bin\Debug\ThucHanh2_Bai3.pdb
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.csproj.AssemblyReference.cache
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.csproj.SuggestedBindingRedirects.cache
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.Form1.resources
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.Properties.Resources.resources
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.csproj.GenerateResource.cache
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.csproj.CoreCompileInputs.cache
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.exe
+E:\Ki1Nam3\C#\ThucHanh2\ThucHanh2_Bai3\ThucHanh2_Bai3\obj\Debug\ThucHanh2_Bai3.pdb

@@ -1,0 +1,12 @@
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\bin\Debug\thucHanhTuan2.exe.config
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\bin\Debug\thucHanhTuan2.exe
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\bin\Debug\thucHanhTuan2.pdb
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.csproj.AssemblyReference.cache
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.csproj.SuggestedBindingRedirects.cache
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.Form1.resources
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.Properties.Resources.resources
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.csproj.GenerateResource.cache
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.csproj.CoreCompileInputs.cache
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.exe
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.pdb
+E:\Ki1Nam3\C#\ThucHanh2\thucHanhTuan2\thucHanhTuan2\obj\Debug\thucHanhTuan2.Form2.resources
